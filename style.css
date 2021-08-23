@@ -1,0 +1,16 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width: 100%;
+    border: 5px solid palegreen;
+    font-size:25px;
+    box-shadow:8px 8px 12px red;
+}
+
+.one,.two,.three,.four,.five{
+    width:50%;
+    font-size:20px;
+    box-shadow:8px 8px 12px purple;
+}
